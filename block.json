@@ -1,0 +1,18 @@
+{
+  "source": "code.js",
+  "inputs": [
+    {
+      "type": "link",
+      "id": "inputStream"
+    },
+    {
+      "id": "iterationsPerDataPoint",
+      "type": "number"
+    },
+    {
+      "id": "inputLabel",
+      "type": "text"
+    }
+  ],
+  "outputs": []
+}

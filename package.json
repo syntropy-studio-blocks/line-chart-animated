@@ -1,0 +1,29 @@
+{
+  "name": "line-chart-animated",
+  "version": "1.0.0",
+  "description": "Tracks a value across iterations and renders it as a line chart",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syntropy-studio-blocks/line-chart-animated.git"
+  },
+  "keywords": [
+    "syntropy-studio-block",
+    "renderer",
+    "line",
+    "chart",
+    "graph"
+  ],
+  "author": "Angus Russell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syntropy-studio-blocks/line-chart-animated/issues"
+  },
+  "homepage": "https://github.com/syntropy-studio-blocks/line-chart-animated#readme",
+  "dependencies": {
+    "chart.js": "^2.8.0"
+  }
+}
